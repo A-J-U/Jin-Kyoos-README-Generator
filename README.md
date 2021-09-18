@@ -42,4 +42,4 @@
       
   # Questions
   You may contact me at [aidanjinkyoo@gmail.com](mailto:aidanjinkyoo@gmail.com) with any questions you have!
-  Also find me at [GitHub](https://github.com/A-J-U].
+  Also find me at [GitHub](https://github.com/A-J-U).

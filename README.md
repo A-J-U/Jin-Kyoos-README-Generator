@@ -1,6 +1,6 @@
 # Jin-Kyoos-README-Generator
       
-  A simple README generator made with Node.
+  A simple README generator made with Node. Here is the link to the instructional video. (https://youtu.be/Z6-IPZUurmM).
       
   # *Table of Contents
       
@@ -22,7 +22,7 @@
   # Usage
       
   Once you're in the "Develop" directory in terminal run "node index.js" then answer questions.
-  Here is the link to the instructional video. (https://youtu.be/Z6-IPZUurmM)
+ 
       
       
   # License

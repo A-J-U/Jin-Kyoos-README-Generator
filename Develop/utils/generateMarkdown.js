@@ -104,7 +104,7 @@ function generateMarkdown(data) {
       
   # Questions
   You may contact me at [${data.email}](mailto:${data.email}) with any question you have!
-  Also find me at [GitHub](https://github.com/${data.gituser}].
+  Also find me at [GitHub](https://github.com/${data.gituser}).
     
 `;
 }

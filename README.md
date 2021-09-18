@@ -22,6 +22,7 @@
   # Usage
       
   Once you're in the "Develop" directory in terminal run "node index.js" then answer questions.
+  Here is the link to the instructional video. (https://youtu.be/Z6-IPZUurmM)
       
       
   # License
@@ -43,3 +44,5 @@
   # Questions
   You may contact me at [aidanjinkyoo@gmail.com](mailto:aidanjinkyoo@gmail.com) with any questions you have!
   Also find me at [GitHub](https://github.com/A-J-U).
+  
+  
